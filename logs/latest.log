@@ -1,24 +1,43 @@
-[15:06:02] [main/INFO]: Setting user: Player546
-[15:06:03] [Client thread/INFO]: LWJGL Version: 2.9.1
-[15:06:03] [Client thread/ERROR]: Couldn't initialize twitch stream
-[15:06:07] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:examplemod
-[15:06:08] [Sound Library Loader/INFO]: Sound engine started
-[15:06:09] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
-[15:06:09] [Client thread/INFO]: Created: 256x256 textures/items-atlas
-[15:06:09] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:examplemod
-[15:06:09] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
-[15:06:09] [Client thread/INFO]: Created: 256x256 textures/items-atlas
-[15:06:10] [Sound Library Loader/INFO]: Sound engine started
-[15:07:30] [Client thread/INFO]: Stopping!
-421
-[15:07:12] [Client thread/INFO]: LWJGL Version: 2.9.1
-[15:07:12] [Client thread/ERROR]: Couldn't initialize twitch stream
-[15:07:17] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:examplemod
-[15:07:17] [Sound Library Loader/INFO]: Sound engine started
-[15:07:19] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
-[15:07:19] [Client thread/INFO]: Created: 256x256 textures/items-atlas
-[15:07:19] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:examplemod
-[15:07:19] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
-[15:07:19] [Client thread/INFO]: Created: 256x256 textures/items-atlas
-[15:07:20] [Sound Library Loader/INFO]: Sound engine started
-[15:07:28] [Client thread/INFO]: Stopping!
+[17:28:59] [main/INFO]: Setting user: Player859
+[17:29:00] [Client thread/INFO]: LWJGL Version: 2.9.1
+[17:29:01] [Client thread/ERROR]: Couldn't initialize twitch stream
+[17:29:06] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:mcmodID
+[17:29:06] [Sound Library Loader/INFO]: Sound engine started
+[17:29:07] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
+[17:29:08] [Client thread/INFO]: Created: 256x256 textures/items-atlas
+[17:29:08] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:mcmodID
+[17:29:08] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
+[17:29:08] [Client thread/INFO]: Created: 256x256 textures/items-atlas
+[17:29:09] [Sound Library Loader/INFO]: Sound engine started
+[17:29:25] [Server thread/INFO]: Starting integrated minecraft server version 1.7.10
+[17:29:25] [Server thread/INFO]: Generating keypair
+[17:29:25] [Server thread/INFO]: Converting map!
+[17:29:26] [Server thread/INFO]: Scanning folders...
+[17:29:26] [Server thread/INFO]: Total conversion count is 0
+[17:29:26] [Server thread/INFO]: Preparing start region for level 0
+[17:29:27] [Server thread/INFO]: Preparing spawn area: 10%
+[17:29:28] [Server thread/INFO]: Preparing spawn area: 23%
+[17:29:29] [Server thread/INFO]: Preparing spawn area: 36%
+[17:29:30] [Server thread/INFO]: Preparing spawn area: 49%
+[17:29:31] [Server thread/INFO]: Preparing spawn area: 56%
+[17:29:32] [Server thread/INFO]: Preparing spawn area: 61%
+[17:29:33] [Server thread/INFO]: Preparing spawn area: 72%
+[17:29:34] [Server thread/INFO]: Preparing spawn area: 82%
+[17:29:35] [Server thread/INFO]: Preparing spawn area: 94%
+[17:29:36] [Server thread/INFO]: Changing view distance to 8, from 10
+[17:29:36] [Server thread/INFO]: Player859[local:E:86f5b6d9] logged in with entity id 55 at (241.5, 65.0, 18.5)
+[17:29:37] [Server thread/INFO]: Player859 加入了游戏
+[17:29:41] [Server thread/INFO]: Player859 刚刚获得了 [打开物品栏] 成就！
+[17:29:41] [Client thread/INFO]: [CHAT] Player859 刚刚获得了 [打开物品栏] 成就！
+[17:29:42] [Client thread/INFO]: Warning: Clientside chunk ticking took 101 ms
+[17:30:33] [Server thread/INFO]: Saving and pausing game...
+[17:30:33] [Server thread/INFO]: Saving chunks for level '新的世界'/Overworld
+[17:30:33] [Server thread/INFO]: Saving chunks for level '新的世界'/Nether
+[17:30:33] [Server thread/INFO]: Saving chunks for level '新的世界'/The End
+[17:30:42] [Server thread/INFO]: Stopping server
+[17:30:42] [Server thread/INFO]: Saving players
+[17:30:42] [Server thread/INFO]: Saving worlds
+[17:30:42] [Server thread/INFO]: Saving chunks for level '新的世界'/Overworld
+[17:30:42] [Server thread/INFO]: Saving chunks for level '新的世界'/Nether
+[17:30:42] [Server thread/INFO]: Saving chunks for level '新的世界'/The End
+[17:30:43] [Client thread/INFO]: Stopping!
